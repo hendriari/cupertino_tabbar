@@ -1,3 +1,3 @@
 # Tab bar view
 
-![tab bar](assets/cuppertino_tabBar_preview.gif)
+![tab bar](cuppertino_tabBar_preview.gif)
